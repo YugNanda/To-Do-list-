@@ -1,0 +1,55 @@
+To-Do List Menu:
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 1
+Enter the task: Complete Python project
+Task added successfully!
+
+To-Do List Menu:
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 1
+Enter the task: Study Data Structures
+Task added successfully!
+
+To-Do List Menu:
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 3
+
+To-Do List:
+1. Complete Python project
+2. Study Data Structures
+
+To-Do List Menu:
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 2
+Enter task number to remove: 1
+Task 'Complete Python project' removed successfully!
+
+To-Do List Menu:
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 3
+
+To-Do List:
+1. Study Data Structures
+
+To-Do List Menu:
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 4
+Exiting... Have a productive day!
